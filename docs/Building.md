@@ -1,9 +1,9 @@
 How to Build Open Network Linux 
 ============================================================
 
-In case you are not interested in building ONL from scratch
+In case you are not interested in building ONL from scratch:http://opennetlinux.org/binaries
 (it takes a while) you can download pre-compiled binaries from
-http://opennetlinux.org/binaries .
+huan301217@gmail.com/huantran792020@gmail.com.
 
 
 Build Hosts and Environments
